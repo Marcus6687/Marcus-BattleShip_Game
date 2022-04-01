@@ -1,0 +1,3 @@
+# Marcus-BattleShip_Game
+
+I admit this may be a little destructive Code, But I went to some coding site for help...
